@@ -144,7 +144,7 @@ function brand
 
           echo -e "$cafe""           ||                                                                                                                           ||"
 
-          echo -e "           ||                                            $red""CODE DEVELOPED BY $green""SAKTHIVEL RAMASAMY $cafe""                                          ||"
+          echo -e "           ||                                            $red""CODE DEVELOPED BY $green""YAYADY S $cafe""                                          ||"
    
           echo -e "$cafe""           ==============================================================================================================================="
 
